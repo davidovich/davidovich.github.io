@@ -2,7 +2,7 @@
 {
     "schemaVersion": 1,
     "label": "coverage",
-    "message": "%",
-    "color": "red"
+    "message": "88.8%",
+    "color": "brightgreen"
 }
 
